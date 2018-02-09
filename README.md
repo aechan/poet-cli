@@ -1,5 +1,5 @@
 # poet-cli 
-<img src="https://cdn-images-1.medium.com/max/1200/1*zH6rGym5yMKju9deSajBVQ.jpeg" width=100px>
+<a href="po.et"><img src="https://cdn-images-1.medium.com/max/1200/1*zH6rGym5yMKju9deSajBVQ.jpeg" width=100px></a>
 
 ## Command Line Interface for po.et's Frost API.
 ## Record works into the bitcoin blockchain from your terminal.
